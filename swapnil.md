@@ -22,7 +22,7 @@ shahriarswapnil50@gmail.com
 01907463113
 ### React Project
 https://doctors-portal-47.web.app/
-### features used to build that application:
+### features used to build this application:
 * React (JavaScript Library)
 * Tailwind CSS
 * Firebase 
