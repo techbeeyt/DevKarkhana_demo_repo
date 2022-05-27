@@ -1,5 +1,0 @@
-Name : Sujon Ali
-Institute : RUET
-Department : CSE
-Occupation : Student
-Email : sujonali8276@gmail.com
