@@ -1,4 +1,0 @@
-Name : Sujon Ali
-Institute : RUET
-Department : CSE
-Occupation : Student
